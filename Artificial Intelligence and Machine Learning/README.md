@@ -17,6 +17,6 @@ Roberto Romero Vielma - A00822314 </br>
 
 - Semana 7: [Redes Neuronales](/Artificial%20Intelligence%20and%20Machine%20Learning/Redneuronal_Equipo29.ipynb)
 - Semana 8: [Máquina de Vector Soporte - Support Vector Machine(SVM)](/Artificial%20Intelligence%20and%20Machine%20Learning/SVM_Equipo29.ipynb)
-- Semana 9: [Práctica: Bayes ingenuo y vecino más cercano](/Artificial%20Intelligence%20and%20Machine%20Learning/Semana_9/Actividad_Semana_9_Equipo29.ipynb)
-- Semana 9: [Preguntas y respuestas: Bayes ingenuo y vecino más cercano](/Artificial%20Intelligence%20and%20Machine%20Learning/Semana_9/Actividad_Semana_9_Equipo29.pdf)
+- Semana 9: [Práctica: Bayes ingenuo y vecino más cercano](/Artificial%20Intelligence%20and%20Machine%20Learning/Semana%209/Actividad_Semana_9_Equipo29.ipynb)
+- Semana 9: [Preguntas y respuestas: Bayes ingenuo y vecino más cercano](/Artificial%20Intelligence%20and%20Machine%20Learning/Semana%209/Actividad_Semana_9_Equipo29.pdf)
 - Semana 10: [Actividad 11. Reducción de dimensionalidad](/Artificial%20Intelligence%20and%20Machine%20Learning/SVD_Equipo29.ipynb)
