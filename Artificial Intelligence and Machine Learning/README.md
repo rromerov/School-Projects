@@ -2,9 +2,9 @@
 
 ## Maestría en Inteligencia Artificial Aplicada - Tecnológico de Monterrey
 
-### Este repo contiene los avances del Equipo 29 del curso Inteligencia Artificial y Aprendizaje Automático.
+### Este repositorio contiene los avances del Equipo 29 del curso Inteligencia Artificial y Aprendizaje Automático.
 
-Prof Luis Eduardo Falcón Morales
+Profesor Luis Eduardo Falcón Morales
 
 ### Integrantes:
 
